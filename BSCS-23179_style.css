@@ -1,0 +1,79 @@
+.topnav
+{
+ background-color:grey;
+}
+.topnav a
+{
+font-size:xx-large;
+}
+.topnav a:hover
+{
+background-color:palegreen;
+color :rgb(179, 43, 43);
+}
+.topnav a.active
+{
+    font-size:xx-large;
+    background-color:darkgrey;
+    color:aqua;
+}
+.center
+{
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:20%;
+}
+.intro
+{
+    font-size:medium;
+color:darkorchid;
+}
+.intro_one
+{
+    font-size:medium;
+    color:deeppink;
+}
+.edu
+{
+    font-size: large;
+    color:darkmagenta;
+}
+img
+{
+    padding-left: 5cm;
+}
+.educ
+{
+    font-size:large;
+    color:blue;
+}
+#con
+{
+    font-size:large;
+    color:deepskyblue;
+}
+img
+{
+ padding-right: 10cm;
+}
+.center_o
+{
+    display:block;
+    margin-left: 0cm;
+    margin-right: 5cm;
+    width:20%;
+}
+.int
+{
+ font-size: x-large;
+ color:green;
+
+}
+.center_t
+{
+    display:block;
+    margin-right:0cm;
+    margin-left: 5cm;
+    width:20%;
+}
